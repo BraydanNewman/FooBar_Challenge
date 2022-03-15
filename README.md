@@ -1,2 +1,7 @@
-# FooBar_Challenge
-Google FooBar challenges
+# FooBar Challenge
+
+---
+
+## Google's FooBar challenges
+
+### Still going but taking a break
